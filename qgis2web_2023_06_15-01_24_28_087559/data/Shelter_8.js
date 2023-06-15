@@ -1,0 +1,1 @@
+var json_Shelter_8 = {"type":"FeatureCollection","name":"Shelter_8","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":null,"SHELTER":null},"geometry":{"type":"Point","coordinates":[4.903595633212812,52.38236252042352]}}]}

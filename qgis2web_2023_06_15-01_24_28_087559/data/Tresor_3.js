@@ -1,0 +1,1 @@
+var json_Tresor_3 = {"type":"FeatureCollection","name":"Tresor_3","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":null,"TRESOR":null},"geometry":{"type":"Point","coordinates":[13.422012016670429,52.517886772942319]}}]}
