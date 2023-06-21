@@ -1,0 +1,1 @@
+var json_Berghain_1 = {"type":"FeatureCollection","name":"Berghain_1","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"BERGHAIN":null},"geometry":{"type":"Point","coordinates":[13.442975659747095,52.51111155203629]}}]}

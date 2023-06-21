@@ -1,0 +1,1 @@
+var json_SubClub_9 = {"type":"FeatureCollection","name":"SubClub_9","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":null,"SUB CLUB":null},"geometry":{"type":"Point","coordinates":[-4.257267616744995,55.857898752027296]}}]}

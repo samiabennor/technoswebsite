@@ -1,0 +1,1 @@
+var json_Fabrik_2 = {"type":"FeatureCollection","name":"Fabrik_2","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":null,"FABRIK":null},"geometry":{"type":"Point","coordinates":[-0.09074804607305,51.519862445086282]}}]}

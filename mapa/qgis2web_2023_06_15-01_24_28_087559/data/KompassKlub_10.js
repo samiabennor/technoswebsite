@@ -1,0 +1,1 @@
+var json_KompassKlub_10 = {"type":"FeatureCollection","name":"KompassKlub_10","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":null,"KOMPASS":null},"geometry":{"type":"Point","coordinates":[3.722672195284135,51.068158524565078]}}]}
